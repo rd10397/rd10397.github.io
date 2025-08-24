@@ -1,1 +1,5 @@
-Read me
+# Data Scientist
+
+## Education
+
+### Brand New
